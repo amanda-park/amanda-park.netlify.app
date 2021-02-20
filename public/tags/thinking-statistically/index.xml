@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thinking-statistically on Amanda Park</title>
+    <link>https://amanda-park.github.io/tags/thinking-statistically/</link>
+    <description>Recent content in thinking-statistically on Amanda Park</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://amanda-park.github.io/tags/thinking-statistically/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thinking Statistically: When Data Visualizations Lie to You</title>
+      <link>https://amanda-park.github.io/post/2020-05-23-lie-factor-visualization/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanda-park.github.io/post/2020-05-23-lie-factor-visualization/</guid>
+      <description>If there&amp;rsquo;s one thing I&amp;rsquo;ve learned by going into statistics as a career, it&amp;rsquo;s that it&amp;rsquo;s so easy to &amp;ldquo;lie&amp;rdquo; with data. Visualizations are one of the easiest ways to get away with doing this and tell a story that in all actuality may not be true at all.
+Edward Tufte was a statistician and artist, and he was acutely aware of this problem too. He&amp;rsquo;s known for writing books such as The Visual Display of Quantitative Information, which is a classic regarding how to create statistical visualization.</description>
+    </item>
+    
+  </channel>
+</rss>

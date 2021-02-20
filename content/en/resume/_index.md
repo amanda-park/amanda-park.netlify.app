@@ -1,6 +1,6 @@
 ---
-description: Professional summary of all the good stuff employers want to know.
-featured_image: /images/dice.jpg
+description: Summary of my professional experience, education, and skills.
+featured_image: ''
 title: 'Resume'
 ---
 

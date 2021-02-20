@@ -1,7 +1,7 @@
 ---
-description: 'This is a list of blog posts I have written.'
+description: 'An archive of all the blog posts I have written.'
 featured_image: ""
-title: Posts
+title: Blog 
 ---
 
 Common Tags

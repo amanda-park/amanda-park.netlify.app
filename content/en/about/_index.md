@@ -1,9 +1,8 @@
 ---
 description: 'Just a bit about me.'
-featured_image: ""
+featured_image: "/images/altheadshot.jpeg"
 title: About
 ---
-{{< figure src="/images/altheadshot.jpeg" title="It's a me, Amanda." >}}
 
 Amanda Park currently works as a Data Scientist at Spectrum Health. She uses statistical programming languages R and Python to transform data into actionable insights for a large healthcare organization, and has worked on pivotal analytics projects, such as predicting when the surge for COVID-19 patients will hit.
 

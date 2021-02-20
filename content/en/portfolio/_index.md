@@ -27,5 +27,5 @@ title: 'Portfolio'
 * __*Mental Health Guidebook*__ was an Android application I developed in 2019 that gives an overview of various therapy modalities and exercises one can do to improve their mental health. 
   * [Google Play Store Link](https://play.google.com/store/apps/details?id=com.amanda.mentalhealthguide)
   * [Github Repo](https://github.com/amanda-park/mental-health-guidebook)
-    * _Note: If I were to redo the project now I would handle things much differently knowing about version control and object-oriented programming. However, despite the disorganization on the backend due to my inexperience when developing this, the app still runs well._
+    * _Note: If I were to redo the project now I would handle things much differently knowing about version control and object-oriented programming. However, despite the disorganization on the backend when developing this, the app still runs well._
 

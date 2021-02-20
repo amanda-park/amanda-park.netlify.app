@@ -1,7 +1,7 @@
 ---
 description: 'An archive of all the blog posts I have written.'
 featured_image: ""
-title: Blog 
+title: Blog Posts
 ---
 
 Common Tags

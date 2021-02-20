@@ -1,0 +1,37 @@
+title: Amanda Park
+baseURL: https://amanda-park.github.io/
+languageCode: en-us
+theme: gohugo-theme-ananke
+resourceDir: ../resources
+DefaultContentLanguage: en
+SectionPagesMenu: main
+Paginate: 10
+googleAnalytics: ''
+enableRobotsTXT: yes
+languages:
+  en:
+    contentDir: content/en
+    title: Amanda Park
+    weight: 2
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+params:
+  background_color_class: bg-black
+  description: Data Scientist in healthcare. Game development hobbyist. Consumer of tacos.
+  facebook: ''
+  favicon: ''
+  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  github: 'https://github.com/amanda-park'
+  gitlab: ''
+  instagram: ''
+  linkedin: 'https://www.linkedin.com/in/parkamanda/'
+  mastodon: ''
+  recent_posts_number: 2
+  rss: ''
+  site_logo: ''
+  slack: ''
+  stackoverflow: ''
+  twitter: 
+  youtube: ''

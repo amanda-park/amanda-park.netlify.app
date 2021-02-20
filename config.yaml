@@ -1,5 +1,5 @@
 title: Amanda Park
-baseURL: https://amanda-park.github.io/
+baseURL: https://amanda-park.netlify.app
 languageCode: en-us
 theme: gohugo-theme-ananke
 resourceDir: ../resources

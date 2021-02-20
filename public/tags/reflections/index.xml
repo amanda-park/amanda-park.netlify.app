@@ -2,123 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reflections on Amanda Park</title>
-    <link>https://amanda-park.github.io/tags/reflections/</link>
+    <link>https://amanda-park.netlify.app/tags/reflections/</link>
     <description>Recent content in reflections on Amanda Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amanda-park.github.io/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amanda-park.netlify.app/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflections on Obtaining the COVID Vaccine</title>
-      <link>https://amanda-park.github.io/post/2021-01-26-covid-vaccine/</link>
+      <link>https://amanda-park.netlify.app/post/2021-01-26-covid-vaccine/</link>
       <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2021-01-26-covid-vaccine/</guid>
+      <guid>https://amanda-park.netlify.app/post/2021-01-26-covid-vaccine/</guid>
       <description>Right now I&amp;rsquo;m especially grateful to have a job in healthcare. There&amp;rsquo;s been a lot of work around regarding the approved COVID-19 vaccines, but with the essential nature of the work, healthcare workers (regardless of whether they are patient-facing nor not) have been prioritized to get the vaccine at my company.
 As of today, I have two doses of the Pfizer vaccine injected in my arm. I believe in science and the efficacy of the vaccines, so I had no hesitation getting the shot at the moment it was offered.</description>
     </item>
     
     <item>
       <title>Committing to Spending Less Time on Social Media</title>
-      <link>https://amanda-park.github.io/post/2021-01-03-reduce-social-media/</link>
+      <link>https://amanda-park.netlify.app/post/2021-01-03-reduce-social-media/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2021-01-03-reduce-social-media/</guid>
+      <guid>https://amanda-park.netlify.app/post/2021-01-03-reduce-social-media/</guid>
       <description>I&amp;rsquo;ve previously made a post about the dangers of social media, which can be seen here. But this post is of a different flavor.
 I haven&amp;rsquo;t explicitly talked about this, but in the past, I was addicted to social media. It wasn&amp;rsquo;t ever limited to one social media site, either. Throughout the 2010s, I had phases where I was addicted to a combination of the following at any one time:</description>
     </item>
     
     <item>
       <title>Reflecting on 2020</title>
-      <link>https://amanda-park.github.io/post/2020-12-18-reflecting-2020/</link>
+      <link>https://amanda-park.netlify.app/post/2020-12-18-reflecting-2020/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-12-18-reflecting-2020/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-12-18-reflecting-2020/</guid>
       <description>2020 was a year that threw us all for a loop, to say the least. Many of us had our lives as we knew it upended in some day due to the Coronavirus, and no matter what happens, we won&amp;rsquo;t be going back to how things used to be. Given how much has happened this year, I felt it fitting to reflect on some of the things I have accomplished this year and what I hope to accomplish in the next one.</description>
     </item>
     
     <item>
       <title>Adventures in Game Development: First Game Progress</title>
-      <link>https://amanda-park.github.io/post/2020-11-14-game-dev-first-game-progress/</link>
+      <link>https://amanda-park.netlify.app/post/2020-11-14-game-dev-first-game-progress/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-11-14-game-dev-first-game-progress/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-11-14-game-dev-first-game-progress/</guid>
       <description>I know I haven&amp;rsquo;t given much of an update on what I&amp;rsquo;ve been working on or how I&amp;rsquo;ve been doing - 2020 has definitely been a doozy on staying consistent with the blogging front. However, I have made a lot of progress on developing that skillset by working on a small game project. It&amp;rsquo;s based on a hypothetical sidequest happening for a long-standing D&amp;amp;D campaign I&amp;rsquo;ve been a part of, called Edge of Chaos.</description>
     </item>
     
     <item>
       <title>Adventures in Game Development: Pixel Art</title>
-      <link>https://amanda-park.github.io/post/2020-09-10-game-dev-pixel-art/</link>
+      <link>https://amanda-park.netlify.app/post/2020-09-10-game-dev-pixel-art/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-09-10-game-dev-pixel-art/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-09-10-game-dev-pixel-art/</guid>
       <description>Art is hard. I have a lot of respect for people who can do art in a professional capacity, as my level of drawing has barely evolved past stick figure drawings. I used to tell myself that there was no way that I was an artist and that the skills needed to draw were something that I wouldn&amp;rsquo;t be able to learn.
 Well, at this point I still can&amp;rsquo;t draw. But I took a baby step to becoming more comfortable with art, and started to learn about the mechanics of pixel art in particular.</description>
     </item>
     
     <item>
       <title>Adventures in Game Development: Choosing an Engine</title>
-      <link>https://amanda-park.github.io/post/2020-08-30-game-dev-engine/</link>
+      <link>https://amanda-park.netlify.app/post/2020-08-30-game-dev-engine/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-08-30-game-dev-engine/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-08-30-game-dev-engine/</guid>
       <description>Probably one of the most important things you&amp;rsquo;ll have to decide before making the game is what engine is most appropriate to do so in. For the longest time, I found making this choice very overwhelming, and I struggled with figuring out which would be most appropriate for me.
 There are many choices out there for game development in 2020. There are the engines geared towards people who aren&amp;rsquo;t coders, such as RPG Maker and Game Maker Studio.</description>
     </item>
     
     <item>
       <title>Adventures in Game Development: Beginnings</title>
-      <link>https://amanda-park.github.io/post/2020-08-27-game-dev-beginning/</link>
+      <link>https://amanda-park.netlify.app/post/2020-08-27-game-dev-beginning/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-08-27-game-dev-beginning/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-08-27-game-dev-beginning/</guid>
       <description>You&amp;rsquo;ll notice I haven&amp;rsquo;t been blogging as much as of late. That&amp;rsquo;s because I&amp;rsquo;ve decided that with the current place in my life that I’m at right now that it was worth trying to learn something far meatier that I&amp;rsquo;ve always been interested in - game development.
 Now, I&amp;rsquo;ve always had a desire to make a game, but it seemed nearly impossible to do. A few years ago, when I had a &amp;ldquo;great&amp;rdquo; idea, I didn&amp;rsquo;t know:</description>
     </item>
     
     <item>
       <title>Regarding The State of the World in June 2020</title>
-      <link>https://amanda-park.github.io/post/2020-06-05-end-qualified-immunity/</link>
+      <link>https://amanda-park.netlify.app/post/2020-06-05-end-qualified-immunity/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-06-05-end-qualified-immunity/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-06-05-end-qualified-immunity/</guid>
       <description>My thoughts are effectively summed up by this video here. Hasan does a far better job articulating things than I could hope to in a blog post and what needs to be done for there to be meaningful change.
 Do what he says in the video if you care about meaningful change.</description>
     </item>
     
     <item>
       <title>Fasting for 24 Hours: First Time Reflections</title>
-      <link>https://amanda-park.github.io/post/2020-05-19-fasting/</link>
+      <link>https://amanda-park.netlify.app/post/2020-05-19-fasting/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-05-19-fasting/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-05-19-fasting/</guid>
       <description>Yesterday, I pulled off a 24 hour fast, where the only thing I consumed in the time frame was water. I&amp;rsquo;ve previously experimented with intermittent fasting in grad school, where there&amp;rsquo;s a specific time frame to eat, and for the rest of the time you only drink water. As I followed the 16:8 approach, I would abstain from food for 16 hours and then eat for 8. But this is the first time I&amp;rsquo;ve deliberately pushed past the 16 hour time to go for an entire day&amp;rsquo;s worth of fasting.</description>
     </item>
     
     <item>
       <title>Career Choices: Passions vs Skills</title>
-      <link>https://amanda-park.github.io/post/2020-04-26-career-passion-vs-skill/</link>
+      <link>https://amanda-park.netlify.app/post/2020-04-26-career-passion-vs-skill/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-04-26-career-passion-vs-skill/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-04-26-career-passion-vs-skill/</guid>
       <description>This is the general dilemma I know I went through when I was trying to figure out what degree path to go down. When I&amp;rsquo;ve been at the top of my game in school, most professors have told me I’m smart enough to go down whatever career path I wanted to. While it was nice for so many smart people to think I was also intelligent, it did absolutely nothing for me to help narrow down the avenues I could take my career.</description>
     </item>
     
     <item>
       <title>Top 10 Influential Books I&#39;ve Read</title>
-      <link>https://amanda-park.github.io/post/2020-04-20-top-10-influential-books-i-ve-read/</link>
+      <link>https://amanda-park.netlify.app/post/2020-04-20-top-10-influential-books-i-ve-read/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-04-20-top-10-influential-books-i-ve-read/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-04-20-top-10-influential-books-i-ve-read/</guid>
       <description>These books are going to be listed in the order I initially read them. You may notice a theme in these books regarding human needs, emotions, habit development, and self-acceptance. None of these are specific to my educational experiences, so I expect that most people would benefit from checking these books out.
 Quiet: The Power of Introverts in a World That Can&amp;rsquo;t Stop Talking by Susan Cain Initially read: 2017</description>
     </item>
     
     <item>
       <title>Top 10 Influential Books I&#39;ve Read</title>
-      <link>https://amanda-park.github.io/post/2020-04-20-top-10-transformative-books/</link>
+      <link>https://amanda-park.netlify.app/post/2020-04-20-top-10-transformative-books/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-04-20-top-10-transformative-books/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-04-20-top-10-transformative-books/</guid>
       <description>These books are going to be listed in the order I initially read them. You may notice a theme in these books regarding human needs, emotions, habit development, and self-acceptance. None of these are specific to my educational experiences, so I expect that most people would benefit from checking these books out.
 Quiet: The Power of Introverts in a World That Can&amp;rsquo;t Stop Talking by Susan Cain Initially read: 2017</description>
     </item>

@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Amanda Park</title>
-    <link>https://amanda-park.github.io/tags/</link>
+    <link>https://amanda-park.netlify.app/tags/</link>
     <description>Recent content in Tags on Amanda Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amanda-park.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amanda-park.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>how-to</title>
-      <link>https://amanda-park.github.io/tags/how-to/</link>
+      <link>https://amanda-park.netlify.app/tags/how-to/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/tags/how-to/</guid>
+      <guid>https://amanda-park.netlify.app/tags/how-to/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reflections</title>
-      <link>https://amanda-park.github.io/tags/reflections/</link>
+      <link>https://amanda-park.netlify.app/tags/reflections/</link>
       <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/tags/reflections/</guid>
+      <guid>https://amanda-park.netlify.app/tags/reflections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>self-improvement</title>
-      <link>https://amanda-park.github.io/tags/self-improvement/</link>
+      <link>https://amanda-park.netlify.app/tags/self-improvement/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/tags/self-improvement/</guid>
+      <guid>https://amanda-park.netlify.app/tags/self-improvement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>career</title>
-      <link>https://amanda-park.github.io/tags/career/</link>
+      <link>https://amanda-park.netlify.app/tags/career/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/tags/career/</guid>
+      <guid>https://amanda-park.netlify.app/tags/career/</guid>
       <description></description>
     </item>
     
     <item>
       <title>game-dev</title>
-      <link>https://amanda-park.github.io/tags/game-dev/</link>
+      <link>https://amanda-park.netlify.app/tags/game-dev/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/tags/game-dev/</guid>
+      <guid>https://amanda-park.netlify.app/tags/game-dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mental-health</title>
-      <link>https://amanda-park.github.io/tags/mental-health/</link>
+      <link>https://amanda-park.netlify.app/tags/mental-health/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/tags/mental-health/</guid>
+      <guid>https://amanda-park.netlify.app/tags/mental-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thinking-statistically</title>
-      <link>https://amanda-park.github.io/tags/thinking-statistically/</link>
+      <link>https://amanda-park.netlify.app/tags/thinking-statistically/</link>
       <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/tags/thinking-statistically/</guid>
+      <guid>https://amanda-park.netlify.app/tags/thinking-statistically/</guid>
       <description></description>
     </item>
     
     <item>
       <title>health</title>
-      <link>https://amanda-park.github.io/tags/health/</link>
+      <link>https://amanda-park.netlify.app/tags/health/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/tags/health/</guid>
+      <guid>https://amanda-park.netlify.app/tags/health/</guid>
       <description></description>
     </item>
     

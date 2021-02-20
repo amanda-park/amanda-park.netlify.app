@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>game-dev on Amanda Park</title>
-    <link>https://amanda-park.github.io/tags/game-dev/</link>
+    <link>https://amanda-park.netlify.app/tags/game-dev/</link>
     <description>Recent content in game-dev on Amanda Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://amanda-park.github.io/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://amanda-park.netlify.app/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adventures in Game Development: First Game Progress</title>
-      <link>https://amanda-park.github.io/post/2020-11-14-game-dev-first-game-progress/</link>
+      <link>https://amanda-park.netlify.app/post/2020-11-14-game-dev-first-game-progress/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-11-14-game-dev-first-game-progress/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-11-14-game-dev-first-game-progress/</guid>
       <description>I know I haven&amp;rsquo;t given much of an update on what I&amp;rsquo;ve been working on or how I&amp;rsquo;ve been doing - 2020 has definitely been a doozy on staying consistent with the blogging front. However, I have made a lot of progress on developing that skillset by working on a small game project. It&amp;rsquo;s based on a hypothetical sidequest happening for a long-standing D&amp;amp;D campaign I&amp;rsquo;ve been a part of, called Edge of Chaos.</description>
     </item>
     
     <item>
       <title>Adventures in Game Development: Pixel Art</title>
-      <link>https://amanda-park.github.io/post/2020-09-10-game-dev-pixel-art/</link>
+      <link>https://amanda-park.netlify.app/post/2020-09-10-game-dev-pixel-art/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-09-10-game-dev-pixel-art/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-09-10-game-dev-pixel-art/</guid>
       <description>Art is hard. I have a lot of respect for people who can do art in a professional capacity, as my level of drawing has barely evolved past stick figure drawings. I used to tell myself that there was no way that I was an artist and that the skills needed to draw were something that I wouldn&amp;rsquo;t be able to learn.
 Well, at this point I still can&amp;rsquo;t draw. But I took a baby step to becoming more comfortable with art, and started to learn about the mechanics of pixel art in particular.</description>
     </item>
     
     <item>
       <title>Adventures in Game Development: Choosing an Engine</title>
-      <link>https://amanda-park.github.io/post/2020-08-30-game-dev-engine/</link>
+      <link>https://amanda-park.netlify.app/post/2020-08-30-game-dev-engine/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-08-30-game-dev-engine/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-08-30-game-dev-engine/</guid>
       <description>Probably one of the most important things you&amp;rsquo;ll have to decide before making the game is what engine is most appropriate to do so in. For the longest time, I found making this choice very overwhelming, and I struggled with figuring out which would be most appropriate for me.
 There are many choices out there for game development in 2020. There are the engines geared towards people who aren&amp;rsquo;t coders, such as RPG Maker and Game Maker Studio.</description>
     </item>
     
     <item>
       <title>Adventures in Game Development: Beginnings</title>
-      <link>https://amanda-park.github.io/post/2020-08-27-game-dev-beginning/</link>
+      <link>https://amanda-park.netlify.app/post/2020-08-27-game-dev-beginning/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://amanda-park.github.io/post/2020-08-27-game-dev-beginning/</guid>
+      <guid>https://amanda-park.netlify.app/post/2020-08-27-game-dev-beginning/</guid>
       <description>You&amp;rsquo;ll notice I haven&amp;rsquo;t been blogging as much as of late. That&amp;rsquo;s because I&amp;rsquo;ve decided that with the current place in my life that I’m at right now that it was worth trying to learn something far meatier that I&amp;rsquo;ve always been interested in - game development.
 Now, I&amp;rsquo;ve always had a desire to make a game, but it seemed nearly impossible to do. A few years ago, when I had a &amp;ldquo;great&amp;rdquo; idea, I didn&amp;rsquo;t know:</description>
     </item>

@@ -27,19 +27,19 @@ It doesn't matter what tool you use if you don't manage to avoid the pitfalls of
 
 When you draw in such a small scale, you need to watch out for how your lines are constructed, or else the line will look clunky. Jaggies occur when the length of lines makes a line you want to appear smooth look jagged instead. An example of what this looks like and how to fix it is below:
 
-![jaggies](/assets/jaggies.jpg)
+{{< figure src="/images/jaggies.jpg" caption="Source: Pixel Logic" >}}
 
 ### Banding
 
 Banding happens when you try and shade an image perfectly around its border. This was something I intuitively did when I first started working with images and it made my art rough around the edges. Again, an example of what this looks like and how to avoid it is below. The biggest thing with banding is to try shading with different colors to avoid things looking blurry when zoomed out.
 
-![banding](/assets/banding.png)
+{{< figure src="/images/banding.png" caption="Source: Pixel Logic">}}
 
 ### Anti-Aliasing
 
 The last point I found interesting in my pixel art journey (though there are many things) is anti-aliasing. It's a technique meant to make pixel art easier to decipher by blurring pixels around a color transition. There are pros and cons to using anti-aliasing, so it depends on the specific sprite you're working on whether or not you want to employ the technique.
 
-![antialiasing](/assets/antialiasing.jpg)
+{{< figure src="/images/antialiasing.jpg" caption="Source: Pixel Logic" >}}
 
 ## Conclusion
 

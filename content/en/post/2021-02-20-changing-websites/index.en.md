@@ -1,5 +1,5 @@
 ---
-title: Changing Websites!
+title: Update! Changing Websites
 author: Amanda Park
 date: '2021-02-20'
 slug: []
@@ -9,13 +9,13 @@ featured_image: ''
 description: ''
 ---
 
-Hi everyone! This is an update post. Previously, I have been hosting my content on [https://amanda-park.github.io](https://amanda-park.github.io/), but I have switched from Github Pages to Netlify for hosting my personal website. Github will still be used, but it will be reserved for hosting documentation only. 
+Hi everyone! This is an update post. Previously, I have been hosting my content on [Github Pages](https://amanda-park.github.io/), but I have switched from Github Pages to Netlify for hosting my personal website. Github will still be used, but it will be reserved for hosting documentation only. 
 
-The new link I will be posting content on is [https://amanda-park.netlify.app/](https://amanda-park.netlify.app/).
+The new link I will be posting content on is [Netlify](https://amanda-park.netlify.app/). This is the site you're on now! Everything probably looks different compared to before, so you're probably asking...
 
-## So Why Did I Change Websites?
+## Why Did I Change Websites?
 
-There are a couple reasons:
+Well, there are a couple reasons:
 
 ### The Old One Was Awkwardly Stitched Together
 
@@ -39,6 +39,6 @@ But Netlify has more features that make it easier to maintain a general purpose 
 
 ## Conclusion
 
-I've put in a redirect on the old portfolio page so hopefully most people arrive to the new site sooner rather than later. 
+I've put in a redirect on the old portfolio page so people will arrive on this site rather than the original I had previously set up.
 
 I look forward to continued posting on this new platform, and hope you stick around for the journey!

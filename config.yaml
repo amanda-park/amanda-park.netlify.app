@@ -35,3 +35,4 @@ params:
   stackoverflow: ''
   twitter: 
   youtube: ''
+  show_reading_time: true

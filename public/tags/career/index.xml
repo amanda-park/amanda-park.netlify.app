@@ -6,7 +6,17 @@
     <description>Recent content in career on Amanda Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://amanda-park.netlify.app/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amanda-park.netlify.app/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Things I&#39;ve Learned Being a Data Scientist</title>
+      <link>https://amanda-park.netlify.app/post/2021-02-28-5-things-i-ve-learned-being-a-data-scientist/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanda-park.netlify.app/post/2021-02-28-5-things-i-ve-learned-being-a-data-scientist/</guid>
+      <description>Data science is considered one of the &amp;ldquo;sexiest jobs&amp;rdquo; of the 21st century. I figured I would throw my hat into the ring and describe what it has been like being a data scientist in healthcare for the last 18 months!
+1. The Data Is (Usually) Ugly In grad school, a lot of the datasets that my cohort worked with were relatively clean. They were canned datasets so there were no ambiguities about data definitions, and there were few, if any, missing values.</description>
+    </item>
+    
     <item>
       <title>What I Wish I Knew About R Sooner</title>
       <link>https://amanda-park.netlify.app/post/2020-11-22-r-programming-wish-knew-sooner/</link>

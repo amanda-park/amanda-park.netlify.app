@@ -6,7 +6,17 @@
     <description>Recent content in reflections on Amanda Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amanda-park.netlify.app/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amanda-park.netlify.app/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Things I&#39;ve Learned Being a Data Scientist</title>
+      <link>https://amanda-park.netlify.app/post/2021-02-28-5-things-i-ve-learned-being-a-data-scientist/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amanda-park.netlify.app/post/2021-02-28-5-things-i-ve-learned-being-a-data-scientist/</guid>
+      <description>Data science is considered one of the &amp;ldquo;sexiest jobs&amp;rdquo; of the 21st century. I figured I would throw my hat into the ring and describe what it has been like being a data scientist in healthcare for the last 18 months!
+1. The Data Is (Usually) Ugly In grad school, a lot of the datasets that my cohort worked with were relatively clean. They were canned datasets so there were no ambiguities about data definitions, and there were few, if any, missing values.</description>
+    </item>
+    
     <item>
       <title>Reflections on Obtaining the COVID Vaccine</title>
       <link>https://amanda-park.netlify.app/post/2021-01-26-covid-vaccine/</link>
@@ -109,16 +119,6 @@ Do what he says in the video if you care about meaningful change.</description>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://amanda-park.netlify.app/post/2020-04-20-top-10-influential-books-i-ve-read/</guid>
-      <description>These books are going to be listed in the order I initially read them. You may notice a theme in these books regarding human needs, emotions, habit development, and self-acceptance. None of these are specific to my educational experiences, so I expect that most people would benefit from checking these books out.
-Quiet: The Power of Introverts in a World That Can&amp;rsquo;t Stop Talking by Susan Cain Initially read: 2017</description>
-    </item>
-    
-    <item>
-      <title>Top 10 Influential Books I&#39;ve Read</title>
-      <link>https://amanda-park.netlify.app/post/2020-04-20-top-10-transformative-books/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://amanda-park.netlify.app/post/2020-04-20-top-10-transformative-books/</guid>
       <description>These books are going to be listed in the order I initially read them. You may notice a theme in these books regarding human needs, emotions, habit development, and self-acceptance. None of these are specific to my educational experiences, so I expect that most people would benefit from checking these books out.
 Quiet: The Power of Introverts in a World That Can&amp;rsquo;t Stop Talking by Susan Cain Initially read: 2017</description>
     </item>

@@ -6,7 +6,6 @@ resourceDir: ../resources
 DefaultContentLanguage: en
 SectionPagesMenu: main
 Paginate: 10
-googleAnalytics: ''
 enableRobotsTXT: yes
 languages:
   en:

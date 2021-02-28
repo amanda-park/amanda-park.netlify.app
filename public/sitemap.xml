@@ -2,33 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://amanda-park.netlify.app/tags/how-to/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+    <loc>https://amanda-park.netlify.app/post/2021-02-28-5-things-i-ve-learned-being-a-data-scientist/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://amanda-park.netlify.app/post/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://amanda-park.netlify.app/tags/career/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://amanda-park.netlify.app/tags/data-science/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://amanda-park.netlify.app/tags/reflections/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://amanda-park.netlify.app/tags/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://amanda-park.netlify.app/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://amanda-park.netlify.app/post/2021-02-20-changing-websites/</loc>
+    <lastmod>2021-02-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://amanda-park.netlify.app/tags/how-to/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://amanda-park.netlify.app/post/2021-02-10-quick-writing-tips/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://amanda-park.netlify.app/tags/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://amanda-park.netlify.app/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://amanda-park.netlify.app/tags/reflections/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -49,11 +69,6 @@
   </url><url>
     <loc>https://amanda-park.netlify.app/post/2020-12-18-reflecting-2020/</loc>
     <lastmod>2020-12-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://amanda-park.netlify.app/tags/career/</loc>
-    <lastmod>2020-11-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -202,17 +217,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://amanda-park.netlify.app/post/2020-04-20-top-10-transformative-books/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://amanda-park.netlify.app/post/2020-04-19-setting-up-blog/</loc>
     <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://amanda-park.netlify.app/post/2020-01-01-resume/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

@@ -21,6 +21,11 @@ title: 'Portfolio'
 * This website itself is an R Project! It was built in blogdown using Hugo as a framework.
   * [Github Repo](https://github.com/amanda-park/amanda-park.netlify.app)
   
+## Python Projects
+
+* __*EasyPlotly*__ is a Python repo developed to make interactive visualizations using the Plotly framework simpler. The main need met by this tool was to standardize visualizations for leadership regardless of whether R or Python was used. Currently in development.
+  * [Github Repo](https://github.com/amanda-park/easyplotly)
+  * [Documentation](https://easyplotly.readthedocs.io/en/latest/index.html)
 
 ## Java Projects
 

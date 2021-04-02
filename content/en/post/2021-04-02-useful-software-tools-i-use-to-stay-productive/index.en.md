@@ -2,7 +2,7 @@
 title: Browser Extensions I Use to Stay Productive and Safe
 author: Amanda Park
 date: '2021-04-02'
-slug: ['browser-extensions-for-productivity']
+slug: browser-extensions-for-productivity
 categories: []
 tags:
   - how-to

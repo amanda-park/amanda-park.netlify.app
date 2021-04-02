@@ -2,7 +2,7 @@
 title: The Methodology I Use to Stay Productive and SAFe
 author: Amanda Park
 date: '2021-04-03'
-slug: [agile-for-personal-productivity]
+slug: agile-for-personal-productivity
 categories: []
 tags:
   - self-improvement

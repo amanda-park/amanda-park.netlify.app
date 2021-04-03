@@ -38,4 +38,4 @@ params:
   show_reading_time: true
   enableEmojis: true
 permalinks:
-  post: ":slug/"
+  post: "/:year/:month/:day/:slug/"

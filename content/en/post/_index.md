@@ -1,5 +1,5 @@
 ---
-description: 'An archive of all the blog posts I have written.'
+description: 'Below is an archive of all the blog posts I have written. You can search for posts on a specific topic based on the tags listed below!'
 featured_image: ""
 title: Blog Posts
 ---

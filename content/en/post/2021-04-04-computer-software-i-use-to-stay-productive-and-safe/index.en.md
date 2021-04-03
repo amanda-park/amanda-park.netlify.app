@@ -1,7 +1,7 @@
 ---
 title: Computer Software I Use to Stay Productive and Safe
 author: Amanda Park
-date: '2021-04-04'
+date: '2021-04-03'
 slug: software-for-productivity-and-safety
 categories: []
 tags:

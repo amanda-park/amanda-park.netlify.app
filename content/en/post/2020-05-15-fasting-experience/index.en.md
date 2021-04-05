@@ -8,7 +8,7 @@ tags:
   - health
   - reflections
 featured_image: ''
-description: ''
+description: 'What it was like and what I would recommend to others who are curious to try it.'
 ---
 
 Yesterday, I pulled off a 24 hour fast, where the only thing I consumed in the time frame was water. I've previously experimented with intermittent fasting in grad school, where there's a specific time frame to eat, and for the rest of the time you only drink water. As I followed the 16:8 approach, I would abstain from food for 16 hours and then eat for 8. But this is the first time I've deliberately pushed past the 16 hour time to go for an entire day's worth of fasting. 

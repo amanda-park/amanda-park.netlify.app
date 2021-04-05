@@ -8,7 +8,7 @@ tags:
   - self-improvement
   - health
 featured_image: ''
-description: ''
+description: 'Please get the rest your body deserves. Restricting sleep will just make you miserable.'
 ---
 
 The title of this post is in reference to one of the most frustrating things I've heard intelligence people say. You cannot logically sleep when you're dead because you need to be alive to sleep. And yet this idea that you can sleep when it's all over lives on. Why? I want to give a few of my thoughts on that:

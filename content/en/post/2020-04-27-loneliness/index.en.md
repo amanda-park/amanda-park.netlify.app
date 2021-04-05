@@ -8,7 +8,7 @@ tags:
   - mental-health
   - reflections
 featured_image: ''
-description: ''
+description: 'Loneliness is one of the deadliest killers around. It is worth learning more about it and how to protect yourself.'
 ---
 
 I listened to Brene Brown's podcast [Unlocking Us](https://brenebrown.com/unlockingus/) yesterday and in her most recent episode focused on the topic of loneliness, which made me want to elaborate more on my feelings about the topic. 

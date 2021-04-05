@@ -7,7 +7,7 @@ categories: []
 tags:
   - reflections
 featured_image: ''
-description: ''
+description: 'Building an app was one of the things I always wanted to check off my to-do list. Here is what I learned in that process!'
 ---
 
 During grad school, whenever I had free time I read many books about mental health. (Motivated by necessity - I was struggling to get by some days.) I learned a lot of useful information in these books that I felt would be useful to share with other people in some capacity. 

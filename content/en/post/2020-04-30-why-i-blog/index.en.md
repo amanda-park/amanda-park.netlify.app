@@ -8,7 +8,7 @@ tags:
   - self-improvement
   - reflections
 featured_image: ''
-description: ''
+description: 'Blogging was a goal I finally decided to take up.'
 ---
 
 Setting up a blog is an idea I have toyed with for a long time. There was a phase of my life that I used Tumblr and would occasionally write about what's on my mind, but it was never designed as a traditional blog. But I've now been inspired to finally set up and regularly contribute my words out to the Internet for the people to read, and I figured it was worth talking briefly about why. 

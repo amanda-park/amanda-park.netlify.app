@@ -8,7 +8,7 @@ tags:
   - self-improvement
   - reflections
 featured_image: ''
-description: ''
+description: 'I got into a habit of reading more the summer before grad school. That led to me reading some very influential books in a formative time of my life, grad school. Here is a list of those ten!'
 ---
 
 These books are going to be listed in the order I initially read them. You may notice a theme in these books regarding human needs, emotions, habit development, and self-acceptance. None of these are specific to my educational experiences, so I expect that most people would benefit from checking these books out.

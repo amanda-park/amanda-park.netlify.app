@@ -7,7 +7,7 @@ categories: []
 tags:
   - thinking-statistically
 featured_image: ''
-description: ''
+description: 'Thinking Statistically is a series where I point out logical fallacies people fall for in order to help make them aware of making that same mistake.'
 ---
 
 If there's one thing I've learned by going into statistics as a career, it's that it's so easy to "lie" with data. Visualizations are one of the easiest ways to get away with doing this and tell a story that in all actuality may not be true at all. 

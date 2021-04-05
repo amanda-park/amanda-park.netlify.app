@@ -7,7 +7,7 @@ DefaultContentLanguage: en
 SectionPagesMenu: main
 Paginate: 10
 enableRobotsTXT: yes
-enableEmojis: true
+enableEmoji: true
 languages:
   en:
     contentDir: content/en
@@ -36,6 +36,5 @@ params:
   twitter: 
   youtube: ''
   show_reading_time: true
-  enableEmojis: true
 permalinks:
   post: "/:year/:month/:day/:slug/"

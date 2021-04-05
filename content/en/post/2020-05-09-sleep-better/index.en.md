@@ -9,7 +9,7 @@ tags:
   - health
   - self-improvement
 featured_image: ''
-description: ''
+description: 'Everyone can benefit from sleeping better. Here are some methods to try to do it better.'
 ---
 
 Over the years I've gotten better at getting consistently good nights of sleep. Here are a few tips you can implement that may help you wake up ready to tackle the world when your alarm goes off:

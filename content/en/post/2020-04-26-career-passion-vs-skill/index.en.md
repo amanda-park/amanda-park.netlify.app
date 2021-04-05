@@ -7,7 +7,7 @@ categories: []
 tags:
   - career
 featured_image: ''
-description: ''
+description: 'Passions are overrated. Here is why skills can serve you far better in the long run.'
 ---
 
 This is the general dilemma I know I went through when I was trying to figure out what degree path to go down. When I've been at the top of my game in school, most professors have told me I’m smart enough to go down whatever career path I wanted to. While it was nice for so many smart people to think I was also intelligent, it did absolutely nothing for me to help narrow down the avenues I could take my career. 

@@ -7,7 +7,7 @@ categories: []
 tags:
   - career
 featured_image: ''
-description: ''
+description: 'COVID just keeps on bringing the hits...'
 ---
 
 

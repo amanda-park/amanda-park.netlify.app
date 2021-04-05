@@ -7,7 +7,7 @@ categories: []
 tags:
   - how-to
 featured_image: ''
-description: ''
+description: 'Everyone has certain habits they can improve in their writing. Here is what I noticed when I analyzed my own words.'
 ---
 
 When I was completing my undergraduate degree, I was known for having strong writing skills. Even if I hated writing essays, I could make a persuasive argument and get the A I wanted. 

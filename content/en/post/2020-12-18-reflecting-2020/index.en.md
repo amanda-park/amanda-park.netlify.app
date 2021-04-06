@@ -7,7 +7,7 @@ categories: []
 tags:
   - reflections
 featured_image: ''
-description: ''
+description: 'What a year... a pandemic changed many of our lives forever. Here is what it was like for me!'
 ---
 
 2020 was a year that threw us all for a loop, to say the least. Many of us had our lives as we knew it upended in some day due to the Coronavirus, and no matter what happens, we won't be going back to how things used to be. Given how much has happened this year, I felt it fitting to reflect on some of the things I have accomplished this year and what I hope to accomplish in the next one. 

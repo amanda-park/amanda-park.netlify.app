@@ -9,7 +9,7 @@ tags:
   - self-improvement
   - how-to
 featured_image: ''
-description: ''
+description: 'Mental health strategy to detach from intense and repetitive thoughts.'
 ---
 
 Sometimes our brains can ruminate endlessly on narratives we'd rather not listen to on a regular basis. A technique to try and soothe these concerns is cognitive defusion. Note: defusion will not necessarily make the thoughts go away and make you feel better. You need to accept thoughts and not try to control/repress them. 

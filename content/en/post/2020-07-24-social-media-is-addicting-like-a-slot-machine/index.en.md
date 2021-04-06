@@ -6,7 +6,7 @@ slug: social-media-is-addicting-like-a-slot-machine
 categories: []
 tags: []
 featured_image: ''
-description: ''
+description: 'Realizing how much of a negative influence social media has had on my life when I was in school.'
 ---
 
 With the state of the world still being what it is, it's easy to feel disconnected from our bodies. Grounding is a very important practice that we should all use on a regular basis, even when we're not living through history. Below I’ll list a few of my favorite techniques I've used in the past to stay in the present moment (these can be done in quick succession or separately, depending on personal preferences):

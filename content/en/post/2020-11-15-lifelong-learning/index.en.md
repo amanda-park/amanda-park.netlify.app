@@ -8,7 +8,7 @@ tags:
   - career
   - self-improvement
 featured_image: ''
-description: ''
+description: 'Why it is so important with any career in the 21st century.'
 ---
 
 If you've read some of my posts you'll know that I've used online learning tools such as Coursera in the past to learn about topics of interest to me. Being in the field of data science, I know that the best tools for tackling challenging problems are constantly evolving, so it's basically a must that I continue to learn about new findings in the ever-expanding field of data analytics. 

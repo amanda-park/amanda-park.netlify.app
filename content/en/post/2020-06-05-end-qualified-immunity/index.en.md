@@ -7,7 +7,7 @@ categories: []
 tags:
   - reflections
 featured_image: ''
-description: ''
+description: 'A source that described my feelings better than I ever could.'
 ---
 
 My thoughts are effectively summed up by this video [here](https://www.youtube.com/watch?v=i_FE78X-qdY). Hasan does a far better job articulating things than I could hope to in a blog post and what needs to be done for there to be meaningful change.

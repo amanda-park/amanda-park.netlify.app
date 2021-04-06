@@ -8,7 +8,7 @@ tags:
   - reflections
   - game-dev
 featured_image: ''
-description: ''
+description: 'I experimented with two main tools - RPG Maker and Godot. Here is the one I settled on and why.'
 ---
 
 Probably one of the most important things you'll have to decide before making the game is what engine is most appropriate to do so in. For the longest time, I found making this choice very overwhelming, and I struggled with figuring out which would be most appropriate for me. 

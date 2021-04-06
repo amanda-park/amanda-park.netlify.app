@@ -6,7 +6,7 @@ slug: []
 categories: []
 tags: []
 featured_image: ''
-description: ''
+description: 'Pivoting from hosting on Github pages to Netlify - also talking about the new website design!'
 ---
 
 Hi everyone! This is an update post. Previously, I have been hosting my content on [Github Pages](https://amanda-park.github.io/), but I have switched from Github Pages to Netlify for hosting my personal website. Github will still be used, but it will be reserved for hosting documentation only. 

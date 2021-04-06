@@ -7,7 +7,7 @@ categories: []
 tags:
   - career
 featured_image: ''
-description: ''
+description: 'Some tips and tricks I wish that I knew when I started learning R years ago.'
 ---
 
 I was officially exposed to the programming language R when I enrolled in my graduate program in 2017. Three years have passed, and now I feel much more comfortable navigating R than I did when I first started. The way I learned R was very bumpy, and looking back there were a lot of ways I could have improved and expedited developing my skills in the language. I figured I'd write about this for anyone also interested in becoming proficient in R.

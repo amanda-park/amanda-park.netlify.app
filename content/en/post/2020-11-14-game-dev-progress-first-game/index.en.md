@@ -8,7 +8,7 @@ tags:
   - reflections
   - game-dev
 featured_image: ''
-description: ''
+description: 'Where I stand with my game development journey!'
 ---
 
 I know I haven't given much of an update on what I've been working on or how I've been doing - 2020 has definitely been a doozy on staying consistent with the blogging front. However, I have made a lot of progress on developing that skillset by working on a small game project. It's based on a hypothetical sidequest happening for a long-standing D&D campaign I've been a part of, called Edge of Chaos.

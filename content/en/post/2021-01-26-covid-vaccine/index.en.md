@@ -8,7 +8,7 @@ tags:
   - reflections
   - health
 featured_image: ''
-description: ''
+description: 'What the side effects of the vaccine were like and why I am glad to have gotten it.'
 ---
 
 Right now I'm especially grateful to have a job in healthcare. There's been a lot of work around regarding the approved COVID-19 vaccines, but with the essential nature of the work, healthcare workers (regardless of whether they are patient-facing nor not) have been prioritized to get the vaccine at my company.

@@ -8,7 +8,7 @@ tags:
   - reflections
   - self-improvement
 featured_image: ''
-description: ''
+description: 'Coming to terms with how social media ends up stressing me out rather than helping me engage in meaningful connections with others.'
 ---
 
 I've previously made a post about the dangers of social media, which can be seen [here](https://amanda-park.github.io/2020/07/24/social-media.html). But this post is of a different flavor.

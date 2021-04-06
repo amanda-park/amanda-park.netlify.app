@@ -8,7 +8,7 @@ tags:
   - reflections
   - game-dev
 featured_image: ''
-description: ''
+description: 'Starting on my game development journey!'
 ---
 
 You'll notice I haven't been blogging as much as of late. That's because I've decided that with the current place in my life that I’m at right now that it was worth trying to learn something far meatier that I've always been interested in - game development. 

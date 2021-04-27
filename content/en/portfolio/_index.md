@@ -10,6 +10,9 @@ title: 'Portfolio'
   * [Github Repo](https://github.com/amanda-park/easytidymodels)
   * [Documentation](https://amanda-park.github.io/easytidymodels/)
 
+* __*REasyEDA*__ is an R package developed to make exploratory data analysis easier. Quickly create visualizations of your data, explore transformations for normalization, and check both correlations and predictive power score. Currently in development.
+  * [Github Repo](https://github.com/amanda-park/reasyeda)
+
 * The [__*Tidy-Tuesday*__](https://github.com/amanda-park/Tidy-Tuesday) repository hosts various R projects worked on starting in grad school. Notable finds:
   * **Pokemon Binary Classifcation Analysis**: 
     * [Github Repo](https://github.com/amanda-park/Tidy-Tuesday/tree/main/Binary%20Classification%20-%20Pokemon)
@@ -33,4 +36,3 @@ title: 'Portfolio'
   * [Google Play Store Link](https://play.google.com/store/apps/details?id=com.amanda.mentalhealthguide)
   * [Github Repo](https://github.com/amanda-park/mental-health-guidebook)
     * _Note: If I were to redo the project now I would handle things much differently knowing about version control and object-oriented programming. However, despite the disorganization on the backend when developing this, the app still runs well._
-

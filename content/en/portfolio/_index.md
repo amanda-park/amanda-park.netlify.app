@@ -13,14 +13,13 @@ title: 'Portfolio'
 * __*REasyEDA*__ is an R package developed to make exploratory data analysis easier. Quickly create visualizations of your data, explore transformations for normalization, and check both correlations and predictive power score. Currently in development.
   * [Github Repo](https://github.com/amanda-park/reasyeda)
 
-* The [__*Tidy-Tuesday*__](https://github.com/amanda-park/Tidy-Tuesday) repository hosts various R projects worked on starting in grad school. Notable finds:
+* The [__*Pokemon Analysis*__](https://github.com/amanda-park/Pokemon-Analysis) repository hosts various R projects where I've analyzed Pokemon related data. Examples:
   * **Pokemon Binary Classifcation Analysis**: 
-    * [Github Repo](https://github.com/amanda-park/Tidy-Tuesday/tree/main/Binary%20Classification%20-%20Pokemon)
+    * [Github Repo](https://github.com/amanda-park/Pokemon-Analysis/tree/main/Binary%20Classification%20-%20Pokemon)
     * [ShinyApps Deployment](https://amandapark.shinyapps.io/PokemonAnalysis/)
-  * **Twitter Natural Language Processing Analysis**:
-    * [Github Repo](https://github.com/amanda-park/Tidy-Tuesday/tree/main/NLP%20-%20Personal%20Twitter%20Tweets)
-    * [ShinyApps Deployment](https://amandapark.shinyapps.io/TwitterAnalysis/)
-
+  * **Pokedex Shiny Application**
+    * [Github Repo](https://github.com/amanda-park/Pokemon-Analysis/tree/main/Shiny%20App%20-%20Pokemon%20%26%20Pokedex)
+    
 * This website itself is an R Project! It was built in blogdown using Hugo as a framework.
   * [Github Repo](https://github.com/amanda-park/amanda-park.netlify.app)
   

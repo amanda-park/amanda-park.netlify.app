@@ -16,7 +16,7 @@ __*REasyEDA*__ is an R package developed to make exploratory data analysis easie
 
 [**Pokédex Analysis**](https://amandapark.shinyapps.io/PokedexNLPAnalysis/) is a Shiny app where you can have fun with Natural Language Processing in a nerdy topic. Understand the most frequent words, pairs of words, topics, and sentiment of Pokedex entries up through generation 8! Dynamic filters are included for slicing and dicing to your heart's content. Currently in development. [Github Repo](https://github.com/amanda-park/Pokemon-Analysis/tree/main/Shiny%20App%20-%20Pokemon%20%26%20Pokedex)
 
-[**Pokémon Binary Classifcation Analysis**](https://amandapark.shinyapps.io/PokemonAnalysis/) is an R Markdown end to end analysis determining what the most important factors were for Pokemon that were considered legendary. Developed in 2019 when I was in grad school. [Github Repo](https://github.com/amanda-park/Pokemon-Analysis/tree/main/Binary%20Classification%20-%20Pokemon)
+[**Pokémon Binary Classification Analysis**](https://amandapark.shinyapps.io/PokemonAnalysis/) is an R Markdown end to end analysis determining what the most important factors were for Pokemon that were considered legendary. Developed in 2019 when I was in grad school. [Github Repo](https://github.com/amanda-park/Pokemon-Analysis/tree/main/Binary%20Classification%20-%20Pokemon)
 
 ### Miscellaneous  
 

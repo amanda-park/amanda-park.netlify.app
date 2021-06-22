@@ -3,7 +3,7 @@ description: 'More information about the storyteller.'
 title: About
 ---
 
-![Picture of Moi](/images/altheadshot.jpeg)
+![Picture of the Storyteller](/images/altheadshot.jpeg)
 
 Amanda Park currently works as a Data Scientist at Spectrum Health. She uses the statistical programming languages R and Python to transform data into actionable insights for a large healthcare organization. Over the course of the past 2 years, she has worked on pivotal analytics projects including predicting when the surge for COVID-19 patients will hit.
 

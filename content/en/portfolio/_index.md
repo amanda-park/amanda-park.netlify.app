@@ -1,7 +1,7 @@
 ---
-description: Relevant personal projects I have worked on.
+description: Portfolio of projects showcasing relevant professional skills.
 featured_image: /images/dice.jpg
-title: 'Portfolio'
+title: 'Projects'
 ---
 
 ## R Portfolio
@@ -20,7 +20,7 @@ __*REasyEDA*__ is an R package developed to make exploratory data analysis easie
 
 ### Miscellaneous  
 
-This website itself is an R Project! It was built in blogdown using Hugo as a framework. Developed in 2021. [Github Repo](https://github.com/amanda-park/amanda-park.netlify.app)
+This website itself is an R Project! It was built in blogdown using Hugo as a framework. Currently hosted using Netlify. Developed in 2021. [Github Repo](https://github.com/amanda-park/amanda-park.netlify.app)
   
 ## Python Portfolio
 

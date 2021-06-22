@@ -19,7 +19,7 @@ sitemap:
   priority: 0.5
 params:
   background_color_class: bg-black
-  description: Data Scientist in healthcare. Game development hobbyist. Consumer of tacos.
+  description: Storyteller for data, blog posts, and video games.
   facebook: ''
   favicon: ''
   featured_image: /images/dice.jpg
@@ -28,7 +28,7 @@ params:
   instagram: ''
   linkedin: 'https://www.linkedin.com/in/parkamanda/'
   mastodon: ''
-  recent_posts_number: 4
+  recent_posts_number: 3
   rss: ''
   site_logo: ''
   slack: ''

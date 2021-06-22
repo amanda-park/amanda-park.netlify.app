@@ -1,5 +1,5 @@
 ---
-description: Welcome to my website, where I blog about topics of interest and show off my professional data science portfolio. I hope you enjoy your stay!
+description: Narratives established through data, blog posts and video game development.
 featured_image: /images/dice.jpg
-title: 'Hi there!'
+title: 'Storyteller'
 ---

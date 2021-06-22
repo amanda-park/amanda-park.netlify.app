@@ -7,7 +7,7 @@ categories: []
 tags:
   - health
   - self-improvement
-featured_image: ''
+featured_image: 'https://newsmobile.in/wp-content/uploads/2016/12/7Habits.jpg'
 description: 'The end of pandemic life is in sight. As we as a society are preparing for a transition back to a new normal, I decided to reevaluate my habits and refocus my habits for better long-term success.'
 ---
 

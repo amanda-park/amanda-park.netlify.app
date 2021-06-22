@@ -1,7 +1,7 @@
 ---
-description: 'Below is an archive of all the blog posts I have written. You can search for posts on a specific topic based on the tags listed below!'
+description: 'Search for posts on a specific topic based on the tags listed below.'
 featured_image: ""
-title: Blog Posts
+title: Posts
 ---
 
 Common Tags

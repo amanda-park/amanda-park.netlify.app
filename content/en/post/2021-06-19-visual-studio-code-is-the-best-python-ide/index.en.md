@@ -7,7 +7,7 @@ categories: []
 tags: 
   - career
   - data-science
-featured_image: ''
+featured_image: 'https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png'
 description: 'My long and arduous journey of finding the RStudio equivalent for Python is now over.'
 ---
 

@@ -6,18 +6,32 @@ title: 'Resume'
 Summary
 ---------
 
-Master's level educated data scientist with 2+ years experience in healthcare analytics. Experienced with creating and monitoring predictive models in production, deploying R Shiny/Streamlit dashboarding applications, and using advanced machine learning techniques to solve complex business problems. Proficient in R, Python, SQL, and Git. Experienced with working in a SAFe/Agile environment. 
+Master's level educated data scientist with 2+ years experience. Experienced with creating and monitoring predictive models in production, deploying R Shiny/Streamlit dashboarding applications, and using advanced machine learning techniques to solve complex business problems. Proficient in R, Python, SQL, and Git. Experienced with working in a SAFe/Agile environment. 
+
+Skills
+---------
+
+**Programming Languages**: R, Python, SQL, Git, Tableau, JavaScript, Java
+
+**Python Packages**: Pandas, NumPy, SciKit-Learn, Plotly, StatsModels, Keras, Streamlit, Sphinx, BeautifulSoup
+
+**R Packages**: Tidyverse, Tidymodels, R Markdown, Shiny, Pkgdown
+
+**Technical Skills**: Data Cleaning, Exploratory Data Analysis, Data Visualization, Machine Learning, Supervised Learning (Classification and Regression), Unsupervised Learning (Clustering, Anomaly Detection), Natural Language Processing & Text Analysis (Sentiment Analysis, Topic Modeling), Dashboarding (Shiny, Streamlit), Version Control (Git, Bitbucket), Web Scraping & APIs
+
+**Programs**: Visual Studio Code, Anaconda, RStudio, Azure Data Studio, Github, Bitbucket, JIRA, Tableau, Microsoft Office (Excel, OneNote, Outlook, PowerPoint, Teams, Word, Visio)
+
+**Soft Skills**: Problem Solving, Communication, Storytelling, Writing, Open-Mindedness, Logical Thinking
 
 Experience
 ---------
 
 **Data Scientist at Spectrum Health**, August 2019 - Present
 
-* Forecasted COVID-19 bed utilization with a productionalized predictive model to indicate potential infection surge for resource planning purposes
+* Forecasted expected COVID-19 bed utilization with a productionalized predictive model for resource planning purposes
 * Developed unsupervised machine learning algorithm to improve management of high-cost healthcare populations and presented at HDAA 2020 Conference
 * Deployed an R Shiny dashboard application which used anomaly detection to monitor admissions across various metrics
-* Used Natural Language Processing to analyze hospital surveys and automate a previously manual labeling process
-* Created financial compensation benchmarks for executives through time series analysis
+* Used Natural Language Processing to analyze hospital surveys and automate a previously manual labeling process of identifying patient sentiment
 
 **Board President at YOUTH POWER!**, February 2017 - August 2019
 
@@ -32,33 +46,6 @@ priority agenda to assist the organization in growing by 20%
 * Prepared minutes after each meeting for the Board’s records
 
 
-Skills
----------
-**Programming Languages**: 
-* R
-* Python
-* SQL
-* Tableau
-* Java
-
-**Technical Skills**:
-* Data Science
-* Machine Learning 
-* Natural Language Processing
-* Data Visualization
-* Regression Analysis
-* Git
-* Excel
-* Microsoft Office
-
-**Soft Skills**: 
-* Problem Solving
-* Communication
-* Leadership
-* Writing
-* Open-Mindedness
-* Logical Thinking
-
 Education
 ---------
 
@@ -68,3 +55,8 @@ Education
 * Relevant coursework: Statistical Learning and Data Mining, Linear Regression, Nonlinear Regression
 
 **BS in Mathematics With Minor in Economics**; SUNY Cortland; 4.1/4.3 GPA; May 2017
+
+Projects
+---------
+
+A portfolio of my work can be seen on Github and on the Projects tab of this site.

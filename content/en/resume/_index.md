@@ -6,7 +6,7 @@ title: 'Resume'
 Summary
 ---------
 
-Master's level educated data scientist with 2+ years experience. Experienced with creating and monitoring predictive models in production, deploying R Shiny/Streamlit dashboarding applications, and using advanced machine learning techniques to solve complex business problems. Proficient in R, Python, SQL, and Git. Experienced with working in a SAFe/Agile environment. 
+Master's level educated data scientist with 3+ years experience. Experienced with creating and monitoring predictive models in production, deploying R Shiny/Streamlit dashboarding applications, and using advanced machine learning techniques to solve complex business problems. Proficient in R, Python, SQL, and Git. Experienced with working in a SAFe/Agile environment. 
 
 Skills
 ---------
@@ -33,18 +33,20 @@ Experience
 * Deployed an R Shiny dashboard application which used anomaly detection to monitor admissions across various metrics
 * Used Natural Language Processing to analyze hospital surveys and automate a previously manual labeling process of identifying patient sentiment
 
+**Data Science Consultant at Internet Leads US**, April 2018 - August 2019
+
+* Used A/B testing on website landing pages for a client and improved the rate of ad revenue by 10%
+* Forecasted future predicted ad revenue with a 95% accuracy rate to make ad hoc decisions
+* Used predictive analytics and regression analysis resulting in a 15% decrease in cost per lead
+
+
 **Board President at YOUTH POWER!**, February 2017 - August 2019
+**Board Secretary at YOUTH POWER!**, November 2014 - February 2017
 
 * Led a Board of 6 to 20 participating youth and young adults and facilitated regular meetings
 * Conducted outreach to recruit 5 new members onto the Board
 * Developed a strategic plan and updated
 priority agenda to assist the organization in growing by 20%
-
-**Board Secretary at YOUTH POWER!**, November 2014 - February 2017
-
-* Analyzed financial reports quarterly to ensure proper allocation of over a million dollars worth of funds
-* Prepared minutes after each meeting for the Board’s records
-
 
 Education
 ---------
